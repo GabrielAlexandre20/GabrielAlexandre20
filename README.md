@@ -1,6 +1,6 @@
 ## Olá, eu sou o Gabriel Alexandre, seja bem vindo!!
 
-- 🔭 Hoje trabalho como administrador logístico
+- 🔭 Procuro experiencias na área da informação
 - 👨🏻‍🎓 Estudando Sistemas de Informação
 - 👨🏻‍💻 A procura da primeira oportunidade na área de tecnologia
 
